@@ -1,0 +1,4 @@
+Evaluation Summary
+====================
+Hardware: {'OS': 'Windows 11', 'Processor': 'Intel64 Family 6 Model 142 Stepping 10, GenuineIntel', 'Architecture': 'AMD64'}
+Clustering: Silhouette=0.3854, DB Index=0.8619

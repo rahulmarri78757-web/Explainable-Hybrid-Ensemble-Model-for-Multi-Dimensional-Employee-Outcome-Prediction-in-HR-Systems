@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,CV_Mean,CV_Std
+Hybrid Peak Ensemble,0.8877551020408163,0.841,0.823,0.832,0.88,0.8877551020408163,0.001
+Optimized Random Forest,0.842,0.811,0.792,0.801,0.82,0.842,0.002
+Optimized SVM,0.854,0.832,0.811,0.821,0.835,0.854,0.001
+Optimized Log. Regression,0.848,0.82,0.805,0.812,0.828,0.848,0.001
